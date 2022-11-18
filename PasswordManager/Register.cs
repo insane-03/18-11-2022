@@ -9,7 +9,7 @@ namespace PasswordManager
 {
     internal class Register
     {
-        string input;
+        string input; //
         int ID = 0;
         static string[] usernameArray = File.ReadAllLines(@"C:\Users\GowthamM\source\repos\PasswordManager\username.txt");//loads a text file and sets it to an array
         ArrayList username = new ArrayList(usernameArray);//sets the array to an array list
