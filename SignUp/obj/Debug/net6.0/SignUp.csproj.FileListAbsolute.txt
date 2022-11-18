@@ -1,0 +1,12 @@
+C:\Users\GowthamM\source\repos\SignUp\bin\Debug\net6.0\SignUp.deps.json
+C:\Users\GowthamM\source\repos\SignUp\bin\Debug\net6.0\SignUp.dll
+C:\Users\GowthamM\source\repos\SignUp\bin\Debug\net6.0\SignUp.pdb
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\SignUp.csproj.AssemblyReference.cache
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\SignUp.AssemblyInfo.cs
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\SignUp.dll
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\refint\SignUp.dll
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\SignUp.pdb
+C:\Users\GowthamM\source\repos\SignUp\obj\Debug\net6.0\ref\SignUp.dll

@@ -1,0 +1,12 @@
+C:\Users\GowthamM\source\repos\SignIn\bin\Debug\net6.0\SignIn.deps.json
+C:\Users\GowthamM\source\repos\SignIn\bin\Debug\net6.0\SignIn.dll
+C:\Users\GowthamM\source\repos\SignIn\bin\Debug\net6.0\SignIn.pdb
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\SignIn.csproj.AssemblyReference.cache
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\SignIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\SignIn.AssemblyInfoInputs.cache
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\SignIn.AssemblyInfo.cs
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\SignIn.csproj.CoreCompileInputs.cache
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\SignIn.dll
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\refint\SignIn.dll
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\SignIn.pdb
+C:\Users\GowthamM\source\repos\SignIn\obj\Debug\net6.0\ref\SignIn.dll

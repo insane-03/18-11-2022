@@ -1,0 +1,12 @@
+C:\Users\GowthamM\source\repos\PassRest\bin\Debug\net6.0\PassReset.deps.json
+C:\Users\GowthamM\source\repos\PassRest\bin\Debug\net6.0\PassReset.dll
+C:\Users\GowthamM\source\repos\PassRest\bin\Debug\net6.0\PassReset.pdb
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\PassReset.csproj.AssemblyReference.cache
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\PassReset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\PassReset.AssemblyInfoInputs.cache
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\PassReset.AssemblyInfo.cs
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\PassReset.csproj.CoreCompileInputs.cache
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\PassReset.dll
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\refint\PassReset.dll
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\PassReset.pdb
+C:\Users\GowthamM\source\repos\PassRest\obj\Debug\net6.0\ref\PassReset.dll
